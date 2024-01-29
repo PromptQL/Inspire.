@@ -10,3 +10,4 @@ inspire:
 # Top.Favorite:
 by: freeCodeCamp.org
 - [Prompt Engineering Tutorial – Master ChatGPT and LLM Responses](https://youtu.be/_ZvnD73m40o)
+- [Introduction To ChatGPT and Prompt Engineering Faculty Workshop](https://youtu.be/7wizt0K4EBA)
